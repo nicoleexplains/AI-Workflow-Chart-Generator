@@ -1,0 +1,5 @@
+{
+  "name": "AI Workflow Chart Generator",
+  "description": "A tool for project managers to generate printable, landscape-oriented workflow charts from natural language descriptions using AI.",
+  "requestFramePermissions": []
+}
